@@ -37,7 +37,7 @@
   "homepage": "https://github.com/Marak/Faker.js#readme",
   "license": "MIT",
   "main": "index.js",
-  "name": "@roundingwellos/faker",
+  "name": "faker",
   "nyc": {
     "all": false,
     "include": [
